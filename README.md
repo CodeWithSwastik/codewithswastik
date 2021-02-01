@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Web Development 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects, upload more videos!
-- ⚡ Fun fact: I am 15 
+- ⚡ Fun fact: I am a verified bot developer on discord
 
 ### Connect with me:
 
