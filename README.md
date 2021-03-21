@@ -31,7 +31,7 @@
 
 </details>
 
-[website]: https://thecodingacademy.xyz
+[website]: https://github.com/codewithswastik
 [twitter]: https://twitter.com/codewithswastik
 [youtube]: https://youtube.com/codewithswastik
 [discord]: https://discord.gg/TXF3hBj
