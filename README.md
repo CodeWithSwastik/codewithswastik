@@ -3,8 +3,8 @@
 
 ## I'm a Student, Youtuber, and a Developer!!
 
-- 🔭 I’m currently working on a Portfolio Website
-- 🌱 I’m currently learning Web Development 
+- 🔭 I’m currently working on [devbio.me](https://devbio.me)
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects, upload more videos!
 - ⚡ Fun fact: I am a verified bot developer on discord
