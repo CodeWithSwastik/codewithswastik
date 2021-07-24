@@ -12,6 +12,7 @@
 ### Connect with me:
 
 [![](https://discord.c99.nl/widget/theme-4/556119013298667520.png)](https://discord.gg/tytnYxnT)
+[![](https://devbio.me/api/widget/swastik.png)](https://devbio.me/u/swastik)
 
 [<img align="left" alt="cws | YouTube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />][youtube]
 [<img align="left" alt="cws | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
