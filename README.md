@@ -3,7 +3,7 @@
 
 ## I'm a Student, Youtuber, and a Developer!!
 
-- 🔭 I’m currently working on [devbio.me](https://devbio.me)
+- 🔭 I’m currently working on [pycord](https://github.com/Pycord-Development/pycord)
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects, upload more videos!
