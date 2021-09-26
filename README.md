@@ -4,7 +4,6 @@
 ## I'm a Student, Youtuber, and a Developer!!
 
 - 🔭 I’m currently working on [pycord](https://github.com/Pycord-Development/pycord)
-- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects, upload more videos!
 - ⚡ Fun fact: I am a verified bot developer on discord
@@ -17,12 +16,6 @@
 [<img align="left" alt="cws | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
 [<img align="left" alt="cws | Reddit" width="22px" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2" />][reddit]
 <br />
-
-### Languages I Know:
-- 🐍 Python
-- 💻 HTML/CSS
-- 🖥️ Javascript
-
 ---
 
 <details>
