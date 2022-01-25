@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [pycord](https://github.com/Pycord-Development/pycord)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects, upload more videos!
+- 🥅 2022 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I am a verified bot developer on discord
 
 ### Connect with me:
