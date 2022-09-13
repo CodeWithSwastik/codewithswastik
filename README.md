@@ -3,7 +3,7 @@
 
 ## I'm a Student, Youtuber, and a Developer!!
 
-- 🔭 I’m currently working on [pycord](https://github.com/Pycord-Development/pycord)
+- 🔭 I’m currently working on [Clash of Chemists](https://github.com/Pycord-Development/clash-of-chemists)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I am a verified bot developer on discord
