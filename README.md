@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Clash of Chem](https://github.com/CodeWithSwastik/clash-of-chem)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects!
+- 🥅 2023 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I am a verified bot developer on discord
 
 ### Connect with me:
