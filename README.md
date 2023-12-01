@@ -3,7 +3,7 @@
 
 ## I'm a Student, Youtuber, and a Developer!!
 
-- 🔭 I’m currently working on [Clash of Chem](https://github.com/CodeWithSwastik/clash-of-chem)
+- 🔭 I’m currently working on [vscode-ext](https://github.com/CodeWithSwastik/vscode-ext)
 - 👯 I’m looking to collaborate with other content creators and developers!
 - 🥅 2023 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I am a verified bot developer on discord
